@@ -1,5 +1,5 @@
 # Not_a_virus
-Its still not officially stable game, i have not handeled many specific cases where this might fail, but in ideal scenarios it should work.
+Its still not officially stable game, i have not handled many specific cases where this might fail, but in ideal scenarios it should work.
 ## Introduction:
 This is nothing but a super simple game made using python, our task is to find a specific key that was generated one entering the name of the player, to find the key there are two methods. If u want to play it just download the exe file run it and play the game and come back for solution(if needed).
 ### Important:
